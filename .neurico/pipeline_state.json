@@ -3,8 +3,8 @@
   "stages": {
     "resource_finder": {
       "status": "failed",
-      "started_at": "2026-03-24T07:34:25.865185",
-      "completed_at": "2026-03-24T07:34:28.631663",
+      "started_at": "2026-03-24T07:38:50.337658",
+      "completed_at": "2026-03-24T07:38:54.310359",
       "success": false,
       "outputs": {
         "papers_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/papers",

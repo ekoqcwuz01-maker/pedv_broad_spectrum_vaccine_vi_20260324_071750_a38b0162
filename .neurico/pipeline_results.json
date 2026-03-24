@@ -2,16 +2,15 @@
   "success": false,
   "stages": {
     "resource_finder": {
+      "success": true,
+      "skipped": true
+    },
+    "experiment_runner": {
       "success": false,
-      "completion_marker": null,
-      "outputs": {
-        "papers_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/papers",
-        "datasets_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/datasets",
-        "code_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/code"
-      },
-      "log_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/resource_finder_claude.log",
-      "transcript_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/resource_finder_claude_transcript.jsonl",
-      "elapsed_time": 3.2789907455444336
+      "return_code": 1,
+      "elapsed_time": 3.6300323009490967,
+      "log_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/execution_claude.log",
+      "transcript_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/execution_claude_transcript.jsonl"
     }
   },
   "work_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162"

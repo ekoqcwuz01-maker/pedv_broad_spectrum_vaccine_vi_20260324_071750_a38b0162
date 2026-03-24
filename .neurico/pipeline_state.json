@@ -4,7 +4,7 @@
     "resource_finder": {
       "status": "completed",
       "started_at": "2026-03-24T07:47:11.746016",
-      "completed_at": "2026-03-24T07:50:55.050643",
+      "completed_at": "2026-03-24T07:54:54.016403",
       "success": true,
       "outputs": {
         "skipped": true
@@ -12,13 +12,13 @@
     },
     "experiment_runner": {
       "status": "failed",
-      "started_at": "2026-03-24T07:50:55.050831",
-      "completed_at": "2026-03-24T07:50:58.695112",
+      "started_at": "2026-03-24T07:54:54.016610",
+      "completed_at": "2026-03-24T07:54:59.015116",
       "success": false,
       "outputs": {
         "success": false,
         "return_code": 1,
-        "elapsed_time": 3.6300323009490967,
+        "elapsed_time": 4.9862425327301025,
         "log_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/execution_claude.log",
         "transcript_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/execution_claude_transcript.jsonl"
       }

@@ -4,10 +4,14 @@
     "resource_finder": {
       "success": false,
       "completion_marker": null,
-      "outputs": {},
+      "outputs": {
+        "papers_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/papers",
+        "datasets_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/datasets",
+        "code_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/code"
+      },
       "log_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/resource_finder_claude.log",
       "transcript_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/resource_finder_claude_transcript.jsonl",
-      "elapsed_time": 8.459296703338623
+      "elapsed_time": 2.7650163173675537
     }
   },
   "work_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162"

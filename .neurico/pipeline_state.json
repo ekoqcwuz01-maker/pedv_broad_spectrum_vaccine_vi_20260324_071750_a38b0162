@@ -3,10 +3,14 @@
   "stages": {
     "resource_finder": {
       "status": "failed",
-      "started_at": "2026-03-24T07:19:32.172152",
-      "completed_at": "2026-03-24T07:19:40.632805",
+      "started_at": "2026-03-24T07:34:25.865185",
+      "completed_at": "2026-03-24T07:34:28.631663",
       "success": false,
-      "outputs": {}
+      "outputs": {
+        "papers_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/papers",
+        "datasets_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/datasets",
+        "code_dir": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/code"
+      }
     }
   },
   "current_stage": null,

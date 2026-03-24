@@ -1,0 +1,53 @@
+idea:
+  title: PEDV broad-spectrum vaccine via whole-virus prime and epitope boost
+  domain: biomedical_research
+  hypothesis: 'A combined immunization strategy using whole-virus priming and conserved-epitope
+    boosting can achieve broader and more focused protective immunity than either
+    approach alone.
+
+    '
+  description: 'This project investigates a PEDV vaccine strategy that combines a
+    G2c-based inactivated whole-virus vaccine (as immune foundation) with an AI-designed
+    conserved epitope-focused booster antigen. The goal is to evaluate whether antigenic
+    breadth and epitope precision can be synergistically integrated to improve cross-protection.
+
+    '
+  objectives:
+  - Evaluate whole-virus inactivated PEDV vaccine as baseline immunity
+  - Identify conserved neutralizing epitopes
+  - Design epitope-focused antigens using AI tools
+  - Compare prime-boost vs single modality strategies
+  - Understand mechanism of broad protection
+  tasks:
+  - name: literature_review
+    description: Review PEDV vaccine strategies and conserved epitopes
+  - name: epitope_analysis
+    description: Identify conserved neutralizing epitopes
+  - name: design_strategy
+    description: Design AI-based epitope-focused antigen
+  - name: comparison_framework
+    description: Compare vaccination strategies
+  - name: mechanism_analysis
+    description: Analyze immune mechanism
+  outputs:
+  - name: research_plan
+    type: text
+    format: markdown
+  - name: literature_summary
+    type: text
+    format: markdown
+  - name: design_strategy
+    type: text
+    format: markdown
+  - name: comparison_analysis
+    type: text
+    format: markdown
+  - name: final_conclusion
+    type: text
+    format: markdown
+  metadata:
+    idea_id: pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162
+    created_at: '2026-03-24T07:17:50.678896'
+    status: submitted
+    github_repo_name: pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162
+    github_repo_url: https://github.com/ekoqcwuz01-maker/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162

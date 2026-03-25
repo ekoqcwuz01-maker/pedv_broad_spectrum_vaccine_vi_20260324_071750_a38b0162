@@ -8,7 +8,7 @@
     "experiment_runner": {
       "success": false,
       "return_code": 1,
-      "elapsed_time": 145.21420884132385,
+      "elapsed_time": 3.0135340690612793,
       "log_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/execution_claude.log",
       "transcript_file": "/workspaces/pedv_broad_spectrum_vaccine_vi_20260324_071750_a38b0162/logs/execution_claude_transcript.jsonl"
     }
